@@ -2,6 +2,7 @@
 # Hi there, I'm Edward!
 
 I'm a formal Biochemist exploring the world to become a full stack developer. 
+
 I'm based in sunnyvale, CA!
 Currently looking for an entry level developer position so feel free to reach out!
 
