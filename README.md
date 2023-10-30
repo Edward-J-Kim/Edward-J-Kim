@@ -14,7 +14,7 @@ JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS
 ## 💻 Projects
 <b>Movie-holic</b><br>
 Check it out below ⇓<br>
-https://edward-j-kim.github.io/Movie-holic/
+[Movie-holic](https://edward-j-kim.github.io/Movie-holic/)
 
 
 ## 📧 Contact
