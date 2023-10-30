@@ -12,8 +12,7 @@ Currently looking for an entry level developer position so feel free to reach ou
 JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, and more to come
 
 ## 💻 Projects
-<b>Movie-holic</b><br>
-Check it out below ⇓<br>
+
 [Movie-holic](https://edward-j-kim.github.io/Movie-holic/)
 
 
